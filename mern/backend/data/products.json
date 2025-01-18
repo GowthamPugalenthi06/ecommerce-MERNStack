@@ -1,0 +1,118 @@
+[
+    {
+        "name": "AIRSON Radium-4 Sports Shoes for Men",
+        "price": 392.58,
+        "description": "SKIN FRIENDLY FLYKNITT UPPER :- New, Breathable Flyknitt Upper which i…",
+        "ratings": 0,
+        "images": [
+            {
+                "image": "http://127.0.0.1:8000/uploads/product/71WebaIRWQL._SY695_.jpg"
+            },
+            {
+                "image": "http://127.0.0.1:8000/uploads/product/71JXvwnauLL._SY695_.jpg"
+            }
+        ],
+        "category": "Clothes/Shoes",
+        "seller": "Nexgen Footwears",
+        "stock": 10,
+        "numOfReviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "iPhone 16 256 GB: 5G Mobile Phone with Camera Control",
+        "price": 980.59,
+        "description": "BUILT FOR APPLE INTELLIGENCE — Apple Intelligence is the personal inte…",
+        "ratings": 40,
+        "images": [
+            {
+                "image": "http://127.0.0.1:8000/uploads/product/615O-NFQKdL._SX679_.jpg"
+            },
+            {
+                "image": "http://127.0.0.1:8000/uploads/product/51hy0QKyyDL._SX679_.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Flicka Mobiles",
+        "stock": 19,
+        "numOfReviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "ZEBRONICS Duke Plus, Wireless Over Ear Headphone with ANC, ENC, Gaming…",
+        "price": 392.58,
+        "description": "This Renewed product is tested to work and look like new with minimal …",
+        "ratings": 0,
+        "images": [
+            {
+                "image": "http://127.0.0.1:8000/uploads/product/61cgU15AgQL._SX569_.jpg"
+            },
+            {
+                "image": "http://127.0.0.1:8000/uploads/product/61cKBC4d6WL._SX569_.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Flicka Electronics",
+        "stock": 10,
+        "numOfReviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "HEMILIQUE Mens Casual Button Down Shirt",
+        "price": 50.8,
+        "description": "Premium Fabric：Quality fabrics and modern fits are key when it comes t…",
+        "ratings": 0,
+        "images": [
+            {
+                "image": "http://127.0.0.1:8000/uploads/product/418NYGZrg6L.jpg"
+            },
+            {
+                "image": "http://127.0.0.1:8000/uploads/product/51ggOI1gYRL.jpg"
+            }
+        ],
+        "category": "Clothes/Shoes",
+        "seller": "Flicka Clothes",
+        "stock": 20,
+        "numOfReviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "SALTY Alpha Midnight Charisma Neck Chain for Men & Boys",
+        "price": 20.3,
+        "description": "Fashion Frill Exclusive Trendy Silver Chain Pendant For Boys Men Colle…",
+        "ratings": 0,
+        "images": [
+            {
+                "image": "http://127.0.0.1:8000/uploads/product/41Dq49+mwnL._SY695_.jpg"
+            },
+            {
+                "image": "http://127.0.0.1:8000/uploads/product/71TsU8ZVgPL._SY695_.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Flicka Accessories",
+        "stock": 5,
+        "numOfReviews": 0,
+        "reviews": []
+    },
+        {
+            "name": "Dell [Smartchoice] Core i3-1215U, 12th Gen (8GB RAM/512GB SSD/FHD",
+            "price": 399.38,
+            "description": "Processor: Intel Core i3-1215U 12th Generation (up to 4.40 GHz, 10MB 6…",
+            "ratings": 0,
+            "images": [
+                {
+                    "image": "http://127.0.0.1:8000/uploads/product/61-Y-eWXqtL._SX679_ (1).jpg"
+                },
+                {
+                    "image": "http://127.0.0.1:8000/uploads/product/61FcqvW8+wL._SX679_.jpg"
+                }
+            ],
+            "category": "Laptops",
+            "seller": "Flicka Laptops",
+            "stock": 20,
+            "numOfReviews": 0,
+            "reviews": []
+        }
+    
+    
+]
